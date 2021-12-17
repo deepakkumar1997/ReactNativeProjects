@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "608041348142",
+    "project_id": "chatkarobot",
+    "storage_bucket": "chatkarobot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608041348142:android:ecbc7deadf60e565e183bf",
+        "android_client_info": {
+          "package_name": "com.chatkarobot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608041348142-cqudkjtpgdrir3h9limpjj6jojuinvp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatkarobot",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "608041348142-c9tc24g4h6q0gc8disea2bg3kfffb60d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ3I34HoywEI2CZ1HDzETzMmEyQ3kSi38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608041348142-c9tc24g4h6q0gc8disea2bg3kfffb60d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
